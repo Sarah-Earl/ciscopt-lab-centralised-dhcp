@@ -39,7 +39,7 @@ no shut
 end
 ```
 
-These then connect to the core switch which where I configured VLAN 100 on Fa0/1, VLAN 200 on Fa0/2 and VLAN 300 on Fa0/3. I then configured Gi0/1 to be a trunk port to connect to the router.
+These then connect to the core switch where I configured VLAN 100 on Fa0/1, VLAN 200 on Fa0/2 and VLAN 300 on Fa0/3. I then configured Gi0/1 to be a trunk port to connect to the router.
 
 ```bash
 Trunk Config
