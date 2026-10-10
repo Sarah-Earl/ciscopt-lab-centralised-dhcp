@@ -1,6 +1,6 @@
 # Centralised DHCP
 
-Cisco PT lab with the objective of creating a centralised DHCP server.
+Cisco PT lab with the objective of creating a centralised DHCP server with DHCP relay to dynamically assign IP addresses to clients across multiple access switches and subnets.
 
 ![diagram](assets/images/networkdiagram.png)
 
